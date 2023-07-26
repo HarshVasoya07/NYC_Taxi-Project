@@ -1,6 +1,5 @@
 <h1>Project: NYC Taxi Prediction</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 This project analyzes the New York City taxi trip duration dataset using various machine learning models. The dataset contains information about taxi trips, including pickup and dropoff timestamps, geographical coordinates, passenger count, and trip duration.
